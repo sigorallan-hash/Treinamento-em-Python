@@ -8,3 +8,4 @@ cont = 0
 while cont <= qtd_palavra:
     print(f"o número é {cont + 1}°, e a letra é {palavra [cont]")
     cont+=1
+    
