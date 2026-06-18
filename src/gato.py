@@ -29,3 +29,5 @@ class Cat:
         print(f'O {self.nome} aranhou.')
         
 my_cat = Cat(f'rua','laranja','curto',20,'felix')
+my_cat.miar()
+my_cat.aranha()
